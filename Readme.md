@@ -25,6 +25,8 @@
 #### 7 - Finally Build the Dashboard in Power BI 
 #### 8 - Analyze the Data and get top 11 players in the world.
 
+# ScreenShot Of Dashboard
+![Screenshot (3)](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/1b090e7a-ed09-4717-a42a-13c8cf7825c1)
 
 
 
