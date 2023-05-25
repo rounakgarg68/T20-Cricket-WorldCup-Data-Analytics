@@ -1,7 +1,7 @@
 
 # T20 WorldCup Data Analytics  
 
-### POWER BI 
+### POWER BI ![icons8-power-bi-48](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/d1ec24b1-f3d0-471f-be50-865f7957ca00)
 ### PYTHON
 ### PANDAS
 ### JUPYTER
