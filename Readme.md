@@ -4,11 +4,8 @@
 ![icons8-power-bi-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/2d4e9755-ab55-4430-baf1-4a1fb60bb27a) 
 ![icons8-python-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/68e5414a-eb63-43ff-91a1-b82fd938f6ac)
 ![icons8-pandas-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/16cd219c-94c1-44c3-a887-21230dc1580f)
-### PANDAS
-### JUPYTER
-### WEB SCRAPPING
+![icons8-jupyter-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/b78d03dc-4a41-4cb3-9262-06ab5e8c2b66)
           
-
 # Description
 
 ##### T20 WorldCup Data Analytics Projects is made up on real world data of T20 2022.In this I have used Pandas,Python and Power BI.In last I made a Dashboard by which we can easily track the performance of all the players. With the help of Dashboard I select top 11 players in the world
