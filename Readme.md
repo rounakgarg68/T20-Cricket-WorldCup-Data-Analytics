@@ -1,8 +1,8 @@
 
 # T20 WorldCup Data Analytics  
  
-## ![icons8-power-bi-48](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/d1ec24b1-f3d0-471f-be50-865f7957ca00) 
-### PYTHON    ![icons8-python-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/68e5414a-eb63-43ff-91a1-b82fd938f6ac)
+## 
+### ![icons8-python-144](https://github.com/rounakgarg68/T20-Cricket-WorldCup-Data-Analytics/assets/87636522/68e5414a-eb63-43ff-91a1-b82fd938f6ac)
 ### PANDAS
 ### JUPYTER
 ### WEB SCRAPPING
